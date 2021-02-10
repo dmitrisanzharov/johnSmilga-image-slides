@@ -1,0 +1,2 @@
+article{background-color:#d3d3d3;position:absolute;left:500px;top:0;opacity:0;transition:.4s ease-in-out}img{width:400px;height:300px}article.activeSlide{opacity:1;transform:translateX(0)}article.lastSlide{transform:translateX(-100%)}article.nextSlide{transform:translateX(100%)}#btnHolder{margin-top:400px;width:500px;margin-left:500px}button{font-size:100px}
+/*# sourceMappingURL=main.72c44eda.chunk.css.map */
